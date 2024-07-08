@@ -1,4 +1,4 @@
-# Sports_Registration_app
+
 # Django Sports Registration Project
 
 This is a Django-based web application for managing sports registrations. Users can register for sports events, view registered teams, and administrators can manage these registrations.
@@ -7,9 +7,8 @@ This is a Django-based web application for managing sports registrations. Users 
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Folder Structure](#folder-structure)
 - [Contributing](#contributing)
-- [License](#license)
+- [Contact]
 
 ## Features
 - User registration and authentication.
@@ -29,8 +28,8 @@ This is a Django-based web application for managing sports registrations. Users 
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/your-username/django-sports-registration.git
-    cd django-sports-registration
+    git clone [https://github.com/your-username/django-sports-registration.git]
+    cd Sports_project_folder
     ```
 
 2. **Create and activate a virtual environment:**
@@ -80,4 +79,7 @@ This is a Django-based web application for managing sports registrations. Users 
 
 ### Admin Features
 - Admins can delete registrations.
+
+### Contact
+Dimpal -https://github.com/Dimplektech
 
